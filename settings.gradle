@@ -1,0 +1,7 @@
+include ':sort'
+include ':voteapp'
+include ':splash_activity_ex2'
+include ':splash_activity_ex1'
+include ':activity_ex2'
+include ':app'
+rootProject.name = "ActivityEx"
